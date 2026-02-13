@@ -84,6 +84,7 @@
 ## 🎒 Образование
 <div>
 [<img src="/certificat.png" width="280px" hspace="10px" alt="Сертификат">](https://github.com/YulianaRomashkinaQA-gif/YulianaRomashkinaQA-gif/blob/main/certificate.png)
+[<img src="/certificate1.png" width="280px" hspace="10px" alt="Сертификат1">](https://github.com/YulianaRomashkinaQA-gif/YulianaRomashkinaQA-gif/blob/main/certificate1.png)
 
 <br>
 <br>
