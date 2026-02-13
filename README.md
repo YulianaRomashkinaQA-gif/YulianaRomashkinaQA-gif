@@ -87,7 +87,6 @@
 <br>
 
 ## 🤝 Контакт
-[![Email](yulianaromashkina93@yandex.ru)]
-[![Telegram Badge]](https://t.me/Yuliana_Romashkina)
+
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
